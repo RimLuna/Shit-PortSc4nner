@@ -3,3 +3,4 @@
 
 Simple TCP port scanning using the connect() method, which is easy to find, as the IP address of the sender will be recorded by the services, **yay!**
 
+Only displays open ports, cuz who the fuck cares
